@@ -41,6 +41,7 @@ We offer bounties for critical security issues. Please see below for more detail
 * Any encrypted credentials, auth tokens, etc. checked into the repo
 * Bugs in dependencies. Please take them upstream!
 * Attacks that require social engineering
+* Token 22 issues that do not result in irrecoverable loss of funds. As there are many combinations of t22 with configurations that can change over time by their admin, the smart contract admin (of the market instance, the vault instance, the limit orders, etc) is willingly taking the risk of onboarding tokens with extensions. 
 
 #### Eligibility
 * Minor issues do not automatically qualify for a bug bounty
